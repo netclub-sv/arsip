@@ -1,0 +1,30 @@
+.jumbotron{
+    margin-top: 55px;
+}
+
+.divisi {
+    margin-bottom: 100px;
+}
+
+.container{
+    width: 80%;
+}
+
+#arsip{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+#arsip h3{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.display-4, .card-title {
+    font-weight: bold;
+}
